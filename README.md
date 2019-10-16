@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This beach resort site was built with React, leveraging React hooks, with an empahsis on context hooks... 
+
+A big thanks to FreeCodeCamp and CodeAddict for distributing this awesome tutorial... Defintily a good one to follow along and use some of the technics from this tutorial on your own personal projects.
+
+FreeCodeCamp Tutorial --> https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&index=8
+
+Original Code Addict Tutorial --> https://www.youtube.com/watch?v=l0JbuMVXaTs&list=PLnHJACx3NwAe5XQDk9xLgym7FF8Q4FYW7&index=7
+
+Screen are shown below of the Rooms landing page (1) and the search page (2)
+
+
 
 <img src="/src/Resort_Home_Screen.PNG" height="450"></img>
 ============================================================================================================================
