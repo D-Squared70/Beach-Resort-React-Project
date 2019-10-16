@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img src="/img/Resort_Home_Screen.PNG" height="450"></img>
+<img src="/src/Resort_Home_Screen.PNG" height="450"></img>
 <img src="Resort_Search_Screen.PNG" height="450"></img>
 
 ## Available Scripts
